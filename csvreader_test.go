@@ -1,4 +1,4 @@
-package CSVReader
+package csvreader
 
 import (
 	"testing"
