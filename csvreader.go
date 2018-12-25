@@ -1,4 +1,7 @@
-package CSVReader
+// Package csvreader ...
+// Maintainer Illuminasy
+// Packege to extract csv contents.
+package csvreader
 
 import (
 	"encoding/csv"
