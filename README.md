@@ -1,7 +1,7 @@
 # CSV Reader [![Build Status](https://travis-ci.org/Illuminasy/csvreader.svg?branch=master)](https://travis-ci.org/Illuminasy/csvreader) [![GoDoc](https://godoc.org/github.com/Illuminasy/csvreader?status.svg)](https://godoc.org/github.com/Illuminasy/csvreader) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Illuminasy/csvreader/blob/master/LICENSE.md)
 
  Simple Golang interface to extract csv data.
-[![GoDoc](https://godoc.org/github.com/Illuminasy/csvreader?status.svg)](https://godoc.org/github.com/Illuminasy/csvreader)
+ 
 # Usage
 
 Get the library:
