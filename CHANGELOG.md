@@ -1,3 +1,6 @@
+## 0.1.2 (December 25, 2018)
+  - Fixed ReadMe file.
+
 ## 0.1.1 (December 25, 2018)
   - Renamed files to match packages. Updated ReadMe to shouw travis build status.
 
