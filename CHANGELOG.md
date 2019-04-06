@@ -1,3 +1,7 @@
+## 0.1.3 (April 06, 2019)
+  - Uses GO mod
+  - Updated dependencies
+
 ## 0.1.2 (December 25, 2018)
   - Fixed ReadMe file.
 
