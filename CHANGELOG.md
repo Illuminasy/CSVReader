@@ -1,3 +1,6 @@
+## 0.1.4 (April 23, 2019)
+  - Fixed import
+
 ## 0.1.3 (April 06, 2019)
   - Uses GO mod
   - Updated dependencies
