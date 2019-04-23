@@ -1,4 +1,4 @@
-module github/illuminasy/csvreader
+module github.com/illuminasy/csvreader
 
 go 1.12
 

@@ -1,3 +1,6 @@
+## 0.1.5 (April 23, 2019)
+  - Fixed import
+
 ## 0.1.4 (April 23, 2019)
   - Fixed import
 
